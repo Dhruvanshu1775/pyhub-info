@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/pyhub-info/static/css/main.ff079df5.css",
+    "main.js": "/pyhub-info/static/js/main.32eb4086.js",
+    "static/js/453.a83aa3f6.chunk.js": "/pyhub-info/static/js/453.a83aa3f6.chunk.js",
+    "static/media/home-image.png": "/pyhub-info/static/media/home-image.9d5ede0fe2098264a9ac.png",
+    "static/media/company-logo.png": "/pyhub-info/static/media/company-logo.09af3171da32205e6d42.png",
+    "static/media/poppins-devanagari-600-normal.woff": "/pyhub-info/static/media/poppins-devanagari-600-normal.1c97cee145d08449ab61.woff",
+    "static/media/inter-latin-ext-700-normal.woff": "/pyhub-info/static/media/inter-latin-ext-700-normal.d4a91814dd3f1e022ab1.woff",
+    "static/media/poppins-devanagari-600-normal.woff2": "/pyhub-info/static/media/poppins-devanagari-600-normal.33d4dca119756bcfeb0c.woff2",
+    "static/media/inter-latin-ext-700-normal.woff2": "/pyhub-info/static/media/inter-latin-ext-700-normal.bc59219ed344909a4f53.woff2",
+    "static/media/inter-latin-700-normal.woff": "/pyhub-info/static/media/inter-latin-700-normal.c73ae7252669254d2588.woff",
+    "static/media/inter-latin-700-normal.woff2": "/pyhub-info/static/media/inter-latin-700-normal.1104236696a5d2d1f236.woff2",
+    "static/media/inter-cyrillic-ext-700-normal.woff": "/pyhub-info/static/media/inter-cyrillic-ext-700-normal.43f6f7e8a4205f05e58c.woff",
+    "static/media/poppins-latin-600-normal.woff": "/pyhub-info/static/media/poppins-latin-600-normal.c0dcdaeaab8caa158cb9.woff",
+    "static/media/inter-cyrillic-ext-700-normal.woff2": "/pyhub-info/static/media/inter-cyrillic-ext-700-normal.b0c28c6752a13fa5abaf.woff2",
+    "static/media/inter-greek-700-normal.woff": "/pyhub-info/static/media/inter-greek-700-normal.8b95c1e2b193d0541864.woff",
+    "static/media/inter-cyrillic-700-normal.woff": "/pyhub-info/static/media/inter-cyrillic-700-normal.9f2de06ca9a7c8458434.woff",
+    "static/media/poppins-latin-600-normal.woff2": "/pyhub-info/static/media/poppins-latin-600-normal.91145014c0350c248ed2.woff2",
+    "static/media/inter-greek-700-normal.woff2": "/pyhub-info/static/media/inter-greek-700-normal.3f04511ca7c0cea0cc2f.woff2",
+    "static/media/inter-cyrillic-700-normal.woff2": "/pyhub-info/static/media/inter-cyrillic-700-normal.533055ff3700190d8dfa.woff2",
+    "static/media/poppins-latin-ext-600-normal.woff": "/pyhub-info/static/media/poppins-latin-ext-600-normal.ecb76658948cb4994ec6.woff",
+    "static/media/inter-greek-ext-700-normal.woff": "/pyhub-info/static/media/inter-greek-ext-700-normal.0f8675bdd7f3fe3a3dba.woff",
+    "static/media/inter-vietnamese-700-normal.woff": "/pyhub-info/static/media/inter-vietnamese-700-normal.05b640f829d1ac5ff29d.woff",
+    "static/media/poppins-latin-ext-600-normal.woff2": "/pyhub-info/static/media/poppins-latin-ext-600-normal.62a35c4d2c25efed9019.woff2",
+    "static/media/inter-greek-ext-700-normal.woff2": "/pyhub-info/static/media/inter-greek-ext-700-normal.c9429f4b77b1f85e999d.woff2",
+    "static/media/inter-vietnamese-700-normal.woff2": "/pyhub-info/static/media/inter-vietnamese-700-normal.d1c85cabbe96efcaeb68.woff2",
+    "index.html": "/pyhub-info/index.html",
+    "main.ff079df5.css.map": "/pyhub-info/static/css/main.ff079df5.css.map",
+    "main.32eb4086.js.map": "/pyhub-info/static/js/main.32eb4086.js.map",
+    "453.a83aa3f6.chunk.js.map": "/pyhub-info/static/js/453.a83aa3f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff079df5.css",
+    "static/js/main.32eb4086.js"
+  ]
+}
