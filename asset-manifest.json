@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pyhub-info/static/css/main.f855e6bc.css",
-    "main.js": "/pyhub-info/static/js/main.66201148.js",
+    "main.js": "/pyhub-info/static/js/main.73dba522.js",
     "static/js/453.a83aa3f6.chunk.js": "/pyhub-info/static/js/453.a83aa3f6.chunk.js",
     "static/media/pyhub-symbol.png": "/pyhub-info/static/media/pyhub-symbol.6c003d205fe911a80303.png",
     "index.html": "/pyhub-info/index.html",
     "main.f855e6bc.css.map": "/pyhub-info/static/css/main.f855e6bc.css.map",
-    "main.66201148.js.map": "/pyhub-info/static/js/main.66201148.js.map",
+    "main.73dba522.js.map": "/pyhub-info/static/js/main.73dba522.js.map",
     "453.a83aa3f6.chunk.js.map": "/pyhub-info/static/js/453.a83aa3f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.66201148.js"
+    "static/js/main.73dba522.js"
   ]
 }
