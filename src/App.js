@@ -1,5 +1,4 @@
 import './App.css';
-import FrontPage from '../src/components/frontendPage'
 
 // src/App.js (Example)
 import { ThemeProvider } from '@mui/material/styles';
