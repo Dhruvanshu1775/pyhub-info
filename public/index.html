@@ -1,46 +1,189 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+
+    <!-- Responsive & browser settings -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
+    <meta name="theme-color" content="#101B33" />
+    <meta name="color-scheme" content="light" />
+    <meta name="application-name" content="PyHub" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+    <!-- Primary SEO -->
+    <title>PyHub | AI Solutions, Automation & Custom Software</title>
+
     <meta
       name="description"
-      content="Web site created using create-react-app"
+      content="PyHub builds AI solutions, intelligent automation, ERP and CRM systems, and custom software that help businesses streamline work and grow."
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
+    <meta name="author" content="PyHub" />
+
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large"
+    />
+
+    <meta
+      name="googlebot"
+      content="index, follow, max-image-preview:large"
+    />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://pyhub.info/" />
+
+    <!-- Website icons -->
+    <link
+      rel="icon"
+      href="%PUBLIC_URL%/pyhub-symbol.png"
+    />
+
+    <link
+      rel="apple-touch-icon"
+      href="%PUBLIC_URL%/apple-touch-icon.png"
+    />
+
+    <link
+      rel="manifest"
+      href="%PUBLIC_URL%/manifest.json"
+    />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Open Graph / Facebook / LinkedIn -->
+    <meta property="og:type" content="website" />
+
+    <meta property="og:site_name" content="PyHub" />
+
+    <meta
+      property="og:title"
+      content="PyHub | AI Solutions, Automation & Custom Software"
+    />
+
+    <meta
+      property="og:description"
+      content="Transform your business with AI solutions, intelligent automation, ERP, CRM, and modern software engineering. Discover PyHub."
+    />
+
+    <meta property="og:url" content="https://pyhub.info/" />
+
+    <meta property="og:locale" content="en_IN" />
+
+    <meta
+      property="og:image"
+      content="https://pyhub.info/og-pyhub.jpg"
+    />
+
+    <meta
+      property="og:image:secure_url"
+      content="https://pyhub.info/og-pyhub.jpg"
+    />
+
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <meta property="og:image:width" content="1200" />
+
+    <meta property="og:image:height" content="630" />
+
+    <meta
+      property="og:image:alt"
+      content="PyHub - AI Solutions, Automation and Software Engineering"
+    />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="PyHub | AI Solutions, Automation & Custom Software"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Building intelligent AI solutions, automation, ERP, CRM, and connected digital experiences for modern businesses."
+    />
+
+    <meta
+      name="twitter:image"
+      content="https://pyhub.info/og-pyhub.jpg"
+    />
+
+    <meta
+      name="twitter:image:alt"
+      content="PyHub - Intelligence. Innovation. Integration."
+    />
+
+    <!-- Google Structured Data: Organization & Website -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://pyhub.info/#organization",
+            "name": "PyHub",
+            "alternateName": "PYHUB",
+            "url": "https://pyhub.info/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://pyhub.info/pyhub-symbol.png"
+            },
+            "email": "hello@pyhub.info",
+            "description": "PyHub is an AI-first technology company building AI solutions, automation systems, ERP and CRM solutions, custom software, cloud platforms, and digital experiences.",
+            "knowsAbout": [
+              "Artificial Intelligence",
+              "AI Development",
+              "AI Automation",
+              "Machine Learning",
+              "Generative AI",
+              "Business Process Automation",
+              "ERP Software",
+              "CRM Software",
+              "Custom Software Development",
+              "Web Application Development",
+              "Cloud Computing",
+              "Data Engineering",
+              "Software Integrations",
+              "Technology Consulting"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://pyhub.info/#website",
+            "url": "https://pyhub.info/",
+            "name": "PyHub",
+            "alternateName": "PYHUB",
+            "publisher": {
+              "@id": "https://pyhub.info/#organization"
+            },
+            "inLanguage": "en-IN"
+          }
+        ]
+      }
+    </script>
+
+    <title>PyHub | AI Solutions, Automation & Custom Software</title>
   </head>
+
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript>
+      You need to enable JavaScript to run the PyHub website.
+    </noscript>
+
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
   </body>
 </html>
